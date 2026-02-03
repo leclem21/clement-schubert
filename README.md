@@ -1,8 +1,7 @@
 # 👋 Salut, moi c'est Clément !
 
 🎓 Étudiant en 3ᵉ année de licence informatique  
-💻 Intéressé par le développement web et la programmation  
-🚀 À la recherche d’un stage pour mettre en pratique mes compétences
+💻 Intéressé par le design UX/UI 
 
 ---
 
